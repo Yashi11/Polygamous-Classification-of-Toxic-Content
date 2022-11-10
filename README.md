@@ -1,7 +1,7 @@
 # Polygamous-Classification-of-Toxic-Content
 5 classes classification of toxic data obtained from jigsaw-toxic-comment-classification-challenge using Supervised Machine Learning Approaches to predict multiple-classifications for Course DS207.
 
-The dataset has the following fetures:
+The dataset has the following features:
 - 159571 Datapoints
 - 8 features for each datapoint
 - Textual Comments classified into 5 Classes: 
