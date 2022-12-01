@@ -1,5 +1,5 @@
 # Polygamous-Classification-of-Toxic-Content
-5 classes classification of toxic data obtained from jigsaw-toxic-comment-classification-challenge using Supervised Machine Learning Approaches to predict multiple-classifications for Course DS207.
+5 classes classification of toxic data obtained from jigsaw-toxic-comment-classification-challenge using Supervised Machine Learning Approaches to predict multiple-classifications.
 
 # Dataset
 
@@ -53,7 +53,26 @@ Link to dataset: https://www.kaggle.com/competitions/jigsaw-toxic-comment-classi
 - Application of GLoVe Model for Improvement
 
 - Class-wise Improved Confusion Matrix Generation
-   
+ 
+ # Summarizing Snaps
+ 
+ - Dataset Summary
+ 
+ 
+ 
+<img width="300" height="200" alt="numpy" src="https://user-images.githubusercontent.com/73705143/204992049-1a88e979-527f-42d9-ac95-c51e76aa9472.png">                <img width="300" height="200" alt="numpy" src="https://user-images.githubusercontent.com/73705143/204992107-6d8197de-0427-41e8-9a8f-b7324f61401f.png">                 <img width="300" height="200" alt="numpy" src="https://user-images.githubusercontent.com/73705143/204992160-51a12351-62d9-4f4e-bb5e-7bf1cf6978a8.png"> 
+- Most Frequent N-Grams 
+
+
+
+<img width="300" height="200" alt="numpy" src="https://user-images.githubusercontent.com/73705143/204992225-bf0552c4-5068-4e87-af9a-7c35da53378b.png">          <img width="300" height="200" alt="numpy" src="https://user-images.githubusercontent.com/73705143/204992256-ac8461d8-2d7a-4d8f-8d43-3c89ec30fdda.png">       <img width="300" height="200" alt="numpy" src="https://user-images.githubusercontent.com/73705143/204994294-b8f90991-ed4b-4003-952f-0c80ab01bc9f.png">
+- Results of ML models
+
+
+<img width="1000" height="250" alt="numpy" src="https://user-images.githubusercontent.com/73705143/204992578-bdba7442-545a-4b99-a47c-327557ec59c6.png">
+- Class-wise Results of GLoVe Model
+<img width="300" height="200" alt="numpy" src="https://user-images.githubusercontent.com/73705143/204992629-4bd56654-bf0a-475d-87d5-6d50f15e9c34.png"><img width="300" height="200" alt="numpy" src="https://user-images.githubusercontent.com/73705143/204992665-28a84e0d-575c-40ee-8942-1fcb1cdb912b.png">
+
  # Support
 
 For project collaboration or any discussion, Email Me at yashasvi488@live.com.
